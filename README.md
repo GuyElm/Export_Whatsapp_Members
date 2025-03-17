@@ -1,5 +1,10 @@
 # Export_Whatsapp_Members
 
+#This code was conducted from the source code from:
+https://github.com/floriandiud/whatsapp-group-members-scraper.git
+
+i was fixing the csv extractor functions and the processing encoding
+
 Export All The Participants of a whatsapp web group to a CSV file - This code apply to hebrew characters and encoding (Uses UTF-8 encode) 
 
 How To Use:
